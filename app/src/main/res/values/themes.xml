@@ -16,7 +16,7 @@
 
 
     <style name="splashTheme" parent="Theme.AppCompat">
-        <item name="android:windowBackground">@drawable/layout_splash</item>
+        <item name="android:windowBackground">@drawable/draw_splash</item>
         <item name="windowNoTitle">true</item>
     </style>
 
